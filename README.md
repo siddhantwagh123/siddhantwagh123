@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddhant Wagh</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=Designing+intelligent+systems;UI%2FUX+Designer+%7C+AI+Builder+%7C+Developer;Turning+ideas+into+real+products" />
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Siddhant%20Wagh&fontSize=40&fontColor=FACC15&animation=fadeIn" />
+</p>
+
+<h3 align="center">Designing intelligent systems, not just screens.</h3>
 
 ---
 
